@@ -36,4 +36,8 @@ Jackson is opening a hot dog stand called Haute Dog in Baltimore:
 
 Charting for visual summary of profits
 
+### Excel picture of solution
+<img src="https://github.com/Zainabjoy/The-Day-2-of-Coursera-Business-Analysis-Course/blob/main/Haute%20Dog%20Pic.png?raw=true" alt="Haute Dog Sales Model" width="700">
+
+
 📎 
